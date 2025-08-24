@@ -73,7 +73,7 @@ python medical_cost_prediction.py
 
 Model Performance:
 
-R² Score: ~0.74
+R² Score: ~0.78
 
 Mean Squared Error: (example output from your code)
 
