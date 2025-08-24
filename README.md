@@ -95,7 +95,7 @@ Contributions are welcome! Fork this repo and create a PR.
 
 Lakshman Rithesh ✨
 
-📧 Email: rithesh2206@example.com
+📧 Email: rithesh2206@gmail.com
 
 🔗 LinkedIn:www.linkedin.com/in/lakshman-rithesh-r
 
