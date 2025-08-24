@@ -47,7 +47,7 @@ Target: charges (medical insurance cost).
 Clone the repository and install dependencies:
 
 # Clone repo
-git clone https://github.com/your-username/medical-cost-prediction.git
+git clone https://github.com/Lakshman-Rithesh-R/medical-cost-prediction.git
 
 # Navigate into project
 cd medical-cost-prediction
@@ -95,9 +95,11 @@ Contributions are welcome! Fork this repo and create a PR.
 
 Lakshman Rithesh ✨
 
-📧 Email: your-email@example.com
+📧 Email: rithesh2206@example.com
 
-🔗 LinkedIn
+🔗 LinkedIn: https://www.linkedin.com/in/your-linkedin-Lakshman Rithesh R)
+
+
 
 🌐 GitHub: @Lakshman-Rithesh-R
 
