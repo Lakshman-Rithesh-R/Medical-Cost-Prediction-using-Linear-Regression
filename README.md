@@ -97,7 +97,7 @@ Lakshman Rithesh ✨
 
 📧 Email: rithesh2206@example.com
 
-🔗 LinkedIn: https://www.linkedin.com/in/your-linkedin-Lakshman Rithesh R)
+🔗 LinkedIn:www.linkedin.com/in/lakshman-rithesh-r
 
 
 
