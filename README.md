@@ -47,7 +47,7 @@ Target: charges (medical insurance cost).
 Clone the repository and install dependencies:
 
 # Clone repo
-git clone https://github.com/Lakshman-Rithesh-R/medical-cost-prediction.git
+git clone https://github.com/Lakshman-Rithesh-R/Medical-Cost-Prediction-using-Linear-Regression.git
 
 # Navigate into project
 cd medical-cost-prediction
