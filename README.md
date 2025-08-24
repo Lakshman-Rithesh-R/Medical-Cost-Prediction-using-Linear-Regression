@@ -79,13 +79,7 @@ Mean Squared Error: (example output from your code)
 
 (Numbers will vary depending on training/test split)
 
-🔮 Future Work
 
-Try Polynomial Regression for non-linear patterns.
-
-Experiment with Regularization (Ridge/Lasso).
-
-Deploy the model with a Flask/Django web app.
 
 🤝 Contributing
 
